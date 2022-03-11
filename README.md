@@ -7,7 +7,7 @@ Skills: Python | JAVA | Frontend
 
 - 🌱 I’m currently learning front end 
 
-<img src="https://c.tenor.com/2uyENRmiUt0AAAAS/coding.gif" alt="coding gif" style="size:50;">
+<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding gif" style="width:500px;">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro-Stolz)](https://github.com/anuraghazra/github-readme-stats)
 
